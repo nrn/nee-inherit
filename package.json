@@ -1,0 +1,29 @@
+{
+  "name": "nee-inherit",
+  "version": "0.0.0",
+  "description": "Novel Event Emitter Inheritance.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/nrn/nee-inherit"
+  },
+  "keywords": [
+    "novel",
+    "event",
+    "emitter",
+    "inherit"
+  ],
+  "author": "Nick Niemeir <nick.niemeir@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nrn/nee-inherit/issues"
+  },
+  "homepage": "https://github.com/nrn/nee",
+  "devDependencies": {
+    "nee": "0.0.1",
+    "tape": "^2.13.4"
+  }
+}
